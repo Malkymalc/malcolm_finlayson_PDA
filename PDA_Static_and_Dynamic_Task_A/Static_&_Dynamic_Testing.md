@@ -16,6 +16,9 @@
 
   Carry out dynamic testing on testing_task_2.rb.
 
-  Read through the code. Create a spec file and write a test for each function. Screenshot the tests and the tests failing. Correct the errors you spotted in task A. 
+  Read through the code.
+  Create a spec file and write a test for each function.
+  Screenshot the tests and the tests failing.
+  Correct the errors you spotted in task A.
 
   You can take screenshots of the tests and the tests passing, you can use this evidence week 7 in your evidence gathering portfolio (for P18 of your project unit).
